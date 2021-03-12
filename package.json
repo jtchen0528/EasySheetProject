@@ -24,7 +24,7 @@
         "react-router-dom": "^4.0.0",
         "reactstrap": "^4.3.0",
         "html2canvas": "^1.0.0-rc.1",
-        "jspdf": "^1.5.3"
+        "jspdf": "^2.3.1"
     },
     "devDependencies": {
         "babel-core": "^6.24.0",
